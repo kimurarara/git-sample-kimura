@@ -1,7 +1,11 @@
 o
 ;wq
 
+<<<<<<< HEAD
 aa
+=======
+bb
+>>>>>>> feature/login
 git status
 
 履歴の確認
