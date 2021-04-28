@@ -1,7 +1,7 @@
 o
 ;wq
 
-現在の編集状態を確認
+aa
 git status
 
 履歴の確認
